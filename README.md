@@ -10,3 +10,6 @@ Current score is sum➕ of all the dice number drawn. When a player holds📥 th
 When a 1 is drawn active player's current score resets to 0 and player is switched.
 
 First player to reach final score of 100💯 wins the game🥇.
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/c71e1c71-081c-480d-85b9-2ef3af7601f3">
+
